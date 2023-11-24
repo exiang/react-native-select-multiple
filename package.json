@@ -1,5 +1,5 @@
 {
-  "name": "react-native-select-multiple",
+  "name": "@exiang/react-native-select-multiple",
   "version": "2.1.0",
   "description": "A customiseable ListView that allows you to select multiple rows",
   "main": "src/SelectMultiple.js",
